@@ -25,7 +25,7 @@ As you might already know, browser vendors don’t exactly agree on a single way
 - Then follow the instructions on vercel to deploy your application.
 
 # Resources
-Sitepoint [Build a WebRTC Video Chat Application with SimpleWebRTC](https://www.sitepoint.com/premium/books/6-javascript-projects/read/2/jyzipker/)
+Sitepoint [Build a WebRTC Video Chat Application with SimpleWebRTC](https://www.sitepoint.com/webrtc-video-chat-application-simplewebrtc/)
 
 # License
 MIT License
